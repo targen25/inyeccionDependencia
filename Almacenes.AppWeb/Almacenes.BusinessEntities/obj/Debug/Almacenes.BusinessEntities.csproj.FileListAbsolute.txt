@@ -1,0 +1,6 @@
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.BusinessEntities\bin\Debug\Almacenes.BusinessEntities.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.BusinessEntities\bin\Debug\Almacenes.BusinessEntities.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.BusinessEntities\obj\Debug\Almacenes.BusinessEntities.csprojAssemblyReference.cache
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.BusinessEntities\obj\Debug\Almacenes.BusinessEntities.csproj.CoreCompileInputs.cache
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.BusinessEntities\obj\Debug\Almacenes.BusinessEntities.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.BusinessEntities\obj\Debug\Almacenes.BusinessEntities.pdb
