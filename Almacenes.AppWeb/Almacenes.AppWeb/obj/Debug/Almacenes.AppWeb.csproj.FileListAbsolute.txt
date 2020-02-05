@@ -62,3 +62,5 @@ E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.AppWeb\bin\Al
 E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.AppWeb\bin\Almacenes.BusinessLogic.pdb
 E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.AppWeb\bin\Almacenes.DataAccess.pdb
 E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.AppWeb\bin\Almacenes.Interfaces.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.AppWeb\bin\Almacenes.Services.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.AppWeb\bin\Almacenes.Services.pdb

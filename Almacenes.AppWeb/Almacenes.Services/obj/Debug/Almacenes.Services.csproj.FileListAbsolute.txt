@@ -1,0 +1,15 @@
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.Services.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.Services.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\obj\Debug\Almacenes.Services.csprojAssemblyReference.cache
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\obj\Debug\Almacenes.Services.csproj.CoreCompileInputs.cache
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\obj\Debug\Almacenes.Services.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\obj\Debug\Almacenes.Services.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.BusinessEntities.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.BusinessLogic.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.DataAccess.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.Interfaces.dll
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.BusinessEntities.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.BusinessLogic.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.DataAccess.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\bin\Debug\Almacenes.Interfaces.pdb
+E:\PruebaInyeccionDependencia\almacenes\Almacenes.AppWeb\Almacenes.Services\obj\Debug\Almacenes.Services.csproj.CopyComplete

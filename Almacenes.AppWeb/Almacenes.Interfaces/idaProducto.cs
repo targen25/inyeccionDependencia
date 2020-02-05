@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace Almacenes.Interfaces
 {
-    public interface iProducto
+    public interface idaProducto
     {
         int insertar(SqlConnection con, beProducto obeProducto);
     }

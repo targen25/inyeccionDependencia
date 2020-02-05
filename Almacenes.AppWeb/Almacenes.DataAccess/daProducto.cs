@@ -11,7 +11,7 @@ using Almacenes.Interfaces;
 
 namespace Almacenes.DataAccess
 {
-    public class daProducto: iProducto
+    public class daProducto: idaProducto
     {
         public int insertar(SqlConnection con, beProducto obeProducto)
         {

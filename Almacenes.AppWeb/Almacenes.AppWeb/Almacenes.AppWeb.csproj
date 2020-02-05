@@ -94,17 +94,9 @@
       <Project>{4010551e-92d9-42dc-9ed4-cd3f0d309f2a}</Project>
       <Name>Almacenes.BusinessEntities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Almacenes.BusinessLogic\Almacenes.BusinessLogic.csproj">
-      <Project>{3c1113aa-2f14-427f-bcfc-b251c3f3d603}</Project>
-      <Name>Almacenes.BusinessLogic</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Almacenes.DataAccess\Almacenes.DataAccess.csproj">
-      <Project>{bcffebc7-a7a3-4c0c-b5cc-e1b619d957dd}</Project>
-      <Name>Almacenes.DataAccess</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Almacenes.Interfaces\Almacenes.Interfaces.csproj">
-      <Project>{657d8c53-fcce-4f97-9933-ca5f126f9b41}</Project>
-      <Name>Almacenes.Interfaces</Name>
+    <ProjectReference Include="..\Almacenes.Services\Almacenes.Services.csproj">
+      <Project>{bd9bcc1a-6a0d-464a-a8da-3f2debd722e3}</Project>
+      <Name>Almacenes.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

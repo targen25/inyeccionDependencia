@@ -4,10 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using Almacenes.Interfaces;
-using Almacenes.BusinessLogic;
 using Almacenes.BusinessEntities;
-using Almacenes.DataAccess;
+using Almacenes.Services;
 
 namespace Almacenes.AppWeb
 {
@@ -21,15 +19,19 @@ namespace Almacenes.AppWeb
         protected void buSave_Click(object sender, EventArgs e)
         {
             beProducto obeProducto = new beProducto();
-            obeProducto.ProductoId = 1;
-            obeProducto.Nombre = "Producto 1";
+            obeProducto.ProductoId =  Convert.ToInt32(txProductoId.Text);
+            obeProducto.Nombre = txNombre.Text;
+            var osProducto = new sProducto();
+            int i = osProducto.insertar(obeProducto);
+            if (i>0)
+            {
+                laResultado.Text = "Se registro correctamente";
+            }
+            else
+            {
+                laResultado.Text = "No Se registro correctamente";
+            }
 
-            iProducto oiProducto = null;
-            oiProducto = new daProducto();
-            // Inyectamos la dependencia a través del constructor
-            var oblproducto = new blProducto(oiProducto);
-            // Producto usa el metodo de insertar
-            int i = oblproducto.insertar(obeProducto);
 
         }
     }

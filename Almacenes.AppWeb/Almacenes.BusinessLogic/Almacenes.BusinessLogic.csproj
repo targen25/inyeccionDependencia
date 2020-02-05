@@ -51,9 +51,9 @@
       <Project>{4010551e-92d9-42dc-9ed4-cd3f0d309f2a}</Project>
       <Name>Almacenes.BusinessEntities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Almacenes.Interfaces\Almacenes.Interfaces.csproj">
+    <ProjectReference Include="..\Almacenes.Interfaces\Almacenes.InterfacesDataAccess.csproj">
       <Project>{657d8c53-fcce-4f97-9933-ca5f126f9b41}</Project>
-      <Name>Almacenes.Interfaces</Name>
+      <Name>Almacenes.InterfacesDataAccess</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

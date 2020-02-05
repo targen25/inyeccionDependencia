@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacenes.BusinessLogic", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacenes.DataAccess", "Almacenes.DataAccess\Almacenes.DataAccess.csproj", "{BCFFEBC7-A7A3-4C0C-B5CC-E1B619D957DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacenes.Interfaces", "Almacenes.Interfaces\Almacenes.Interfaces.csproj", "{657D8C53-FCCE-4F97-9933-CA5F126F9B41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacenes.InterfacesDataAccess", "Almacenes.Interfaces\Almacenes.InterfacesDataAccess.csproj", "{657D8C53-FCCE-4F97-9933-CA5F126F9B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacenes.Services", "Almacenes.Services\Almacenes.Services.csproj", "{BD9BCC1A-6A0D-464A-A8DA-3F2DEBD722E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{657D8C53-FCCE-4F97-9933-CA5F126F9B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657D8C53-FCCE-4F97-9933-CA5F126F9B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657D8C53-FCCE-4F97-9933-CA5F126F9B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9BCC1A-6A0D-464A-A8DA-3F2DEBD722E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9BCC1A-6A0D-464A-A8DA-3F2DEBD722E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9BCC1A-6A0D-464A-A8DA-3F2DEBD722E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9BCC1A-6A0D-464A-A8DA-3F2DEBD722E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

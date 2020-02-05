@@ -13,20 +13,28 @@ namespace Almacenes.BusinessLogic
 {
     public class blProducto :blGeneral
     {
-        iProducto oiProducto;
-        public blProducto(iProducto _oiProducto)
+        idaProducto _oidaProducto;
+        public blProducto(idaProducto oidaProducto)
         {
-            oiProducto = _oiProducto;
+            _oidaProducto = oidaProducto;
         }
         public int insertar(beProducto obeProducto)
         {
-            int id = -1;
+            int id = 0;
 
             using (SqlConnection con = new SqlConnection(CadenaConexion))
             {
-                con.Open();
-                id = oiProducto.insertar(con, obeProducto);
+                try
+                {
+                    con.Open();
+                    id = _oidaProducto.insertar(con, obeProducto);
 
+                }
+                catch (Exception ex)
+                {
+                    id = -1;
+
+                }
             }
             return id;
 
